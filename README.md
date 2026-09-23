@@ -12,6 +12,7 @@ SimpFS/
 ├── filesystem.py
 ├── main.py
 └── README.md
+```
 
 ## Basic Commands
 
@@ -26,3 +27,4 @@ clear    - Clear the terminal
 help     - Show available commands
 exit     - Exit SimpFS
 e        - Exit SimpFS
+```
