@@ -14,6 +14,10 @@ SimpFS/
 └── README.md
 ```
 
+## Diagram
+
+<img width="5226" height="6122" alt="diagram" src="https://github.com/user-attachments/assets/eb55366e-4af8-45e7-b4e7-b3f7c1b5daa2" />
+
 ## Basic Commands
 
 ```text
